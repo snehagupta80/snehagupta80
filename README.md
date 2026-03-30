@@ -31,6 +31,7 @@ Infrastructure as Code (Terraform)
 
 📫 Connect With Me
 📧 Email: snehaaguptaa.04@gmail.com
+
 💻 GitHub: https://github.com/snehagupta80
 
 ⚡ Fun Fact
