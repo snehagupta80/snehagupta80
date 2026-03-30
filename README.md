@@ -11,25 +11,25 @@
 🛠️ Tech Stack
 
 💻 Languages:
-C
-Python
-JavaScript
+C,
+Python,
+JavaScript,
 MySQL
 
 ☁️ Cloud & DevOps:
-Microsoft Azure (Basics)
+Microsoft Azure (Basics),
 Terraform (Basics)
 
 ⚙️ Tools:
-Git & GitHub
+Git & GitHub,
 VS Code
 
 📈 Currently Learning
-Azure Advanced Services
-DevOps & CI/CD Pipelines
+Azure Advanced Services,
+DevOps & CI/CD Pipelines,
 Infrastructure as Code (Terraform)
-📫 Connect With Me
 
+📫 Connect With Me
 📧 Email: snehaaguptaa.04@gmail.com
 💻 GitHub: https://github.com/snehagupta80
 
